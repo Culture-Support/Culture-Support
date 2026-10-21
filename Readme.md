@@ -13,6 +13,9 @@
 <img width="640" height="360" alt="agnotic" src="https://github.com/user-attachments/assets/702d54f1-c40b-465c-8726-b08536a99a3d" />
 
 
+<img width="640" height="360" alt="arp" src="https://github.com/user-attachments/assets/9efb3617-4d3e-4d5b-9ea0-8c5e12c3a51f" />
+
+
 # ⚡ HACKER-CLI // ROCK SUIT SYSTEM CORE
 
 <p align="center">
