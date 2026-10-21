@@ -15,6 +15,10 @@
 <img width="640" height="360" alt="arp" src="https://github.com/user-attachments/assets/9efb3617-4d3e-4d5b-9ea0-8c5e12c3a51f" />
 
 
+
+<img width="640" height="360" alt="app" src="https://github.com/user-attachments/assets/13ee7417-6937-42a5-954a-0deb6acfff04" />
+
+
 # ⚡ HACKER-CLI // ROCK SUIT SYSTEM CORE
 
 <p align="center">
