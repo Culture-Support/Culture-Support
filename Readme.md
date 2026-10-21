@@ -10,6 +10,10 @@
 ======================================================
 ```
 
+
+![Hacker Group Animation](http://googleusercontent.com/generated_animated_image/7362489510958052569)
+
+
 # ⚡ HACKER-CLI // ROCK SUIT SYSTEM CORE
 
 <p align="center">
