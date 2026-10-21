@@ -1,5 +1,4 @@
-<img width="640" height="360" alt="APlasma" src="https://github.com/user-attachments/assets/e0ca21a5-c425-45b0-83d4-f9b5ef5cd85d" />
-<img width="640" height="360" alt="Armed" src="https://github.com/user-attachments/assets/07920cd5-ae2c-4a6f-84dd-91b80bbb3568" />
+
 ```
   ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ 
   ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
