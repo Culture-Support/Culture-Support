@@ -15,7 +15,7 @@
 ```
 
 
-<img width="2816" height="1536" alt="AmaskHack" src="https://github.com/user-attachments/assets/4db99824-e454-461a-89e1-8d9d94bc58cd" />
+<img width="640" height="360" alt="AmaskHack" src="https://github.com/user-attachments/assets/4db99824-e454-461a-89e1-8d9d94bc58cd" />
 
 
 <img width="640" height="360" alt="APlasma" src="https://github.com/user-attachments/assets/a234db7c-5571-48e4-8c21-cff7b5f29998" />
