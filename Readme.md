@@ -17,12 +17,9 @@
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PORT-8080-emerald?style=flat-square&logo=linux&logoColor=white" alt="Port 8080">
-  <img src="https://img.shields.io/badge/STATUS-ROOT_ACTIVE-red?style=flat-square&logo=hackthebox&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/BUILD-PASSING-success?style=flat-square&logo=githubactions&logoColor=white" alt="Build Status">
-  <img src="https://img.shields.io/badge/SECURITY-UNRESTRICTED-blueviolet?style=flat-square" alt="Security">
-</p>
+<img width="640" height="360" alt="Armed" src="https://github.com/user-attachments/assets/e26aa68a-2a87-49da-a088-ceff24190fa3" />
+<img width="640" height="360" alt="AHacker" src="https://github.com/user-attachments/assets/c767a5dc-5a20-42bc-8217-63dad1a41498" />
+
 
 
 
