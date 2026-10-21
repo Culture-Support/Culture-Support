@@ -10,8 +10,7 @@
 ======================================================
 ```
 
-
-![Hacker Group Animation](http://googleusercontent.com/generated_animated_image/7362489510958052569)
+<img width="640" height="360" alt="agnotic" src="https://github.com/user-attachments/assets/702d54f1-c40b-465c-8726-b08536a99a3d" />
 
 
 # ⚡ HACKER-CLI // ROCK SUIT SYSTEM CORE
