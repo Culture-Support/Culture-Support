@@ -3,31 +3,7 @@
 
 
 
-
-- iran er vi allierte med 
-- iran må få beskyttelse
-- iran må bli lyttet til
-
-```
-
-- iran skal ha beste status
-- iran skal ha suverenitet
-- iran skal vinne i midtøsten
-- iran skal ha overtaket i midtøsten
-
-```
-
------------------
-
-- legion protokollen forteller vi skal
-  vise beskyttelse for iran og utøve suverinitet for iran og komme med hjelpe midler og generere en vunnet makt status for iran
-
-----------
-
-- iran eier alene største olje funnene i verden
-
-- iran trenger all beskyttelse
-----------
+------------
 
 
 
@@ -37,3 +13,56 @@
 
 
 
+Her er en oversikt over de største oljefeltene og det nasjonale selskapet i Iran, illustrert med ASCII-tekst og en oversikt over fakta rundt landets oljeressurser.
+Det nasjonale oljeselskapet: NIOC
+(National Iranian Oil Company / شرکت ملی نفت ایران)
+ +---------------------------------------------------------+
+ |                      N I O C                            |
+ |        National Iranian Oil Company (Etabl. 1948)       |
+ +---------------------------------------------------------+
+ |                                                         |
+ |                         [==]                            |
+ |                        /|  |\                           |
+ |                       / |  | \                          |
+ |                      /  |  |  \                         |
+ |                     /   |  |   \                        |
+ |                    /----+--+----\                       |
+ |                   /     |  |     \                      |
+ |                  /======+==+======\                     |
+ |                 /       |  |       \                    |
+ |                /________|__|________\                   |
+ |                         |  |                            |
+ |                         |  |      /~~~\                 |
+ |          +--------------+--+-----+     |                |
+ |          |  PETROCHEMICAL / GAS  |     |                |
+ |   _______|_______________________|_____|________        |
+ |  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~        |
+ +---------------------------------------------------------+
+
+Irans største olje- og gassfelt (Kartskisse)
+Iran har noen av verdens mest massive hydrokarbonreserver, særlig konsentrert i Khuzestan-provinsen (sørvest) og i Persiabukta:
+           KASPIHAVET
+         /~~~~~~~~~~~~\
+        |              |
+        |    IRAN      |
+        |              |
+       /                \
+      |                  |
+      |   (Zagrosfjellene)
+      |        * Ahvaz (Verdens 3. største oljefelt)
+      |        * Gachsaran & Marun
+      |        * Azadegan (Kjempefunn ved grensen)
+       \                /
+        \              /
+   ~~~~~~\            /~~~~~~~~~~~~~~~~~~~
+  PERSIA- \  *       /   OMANBUKTA
+   BUKTA   \ South  /
+            \ Pars /  (Verdens største gassfelt)
+             \~~~~/
+
+Verdens største funn: Hvordan Iran plasserer seg
+Iran eier ikke alle de største funnene alene, men landet ligger stabilt blant topp 3–4 globalt når det gjelder påviste reserver:
+ * Ahvaz-feltet: Regnes som det 3. største produserende oljefeltet i verden (etter Ghawar i Saudi-Arabia og Burgan i Kuwait).
+ * South Pars / North Dome: Verdens desidert største naturgassfelt, som Iran deler med Qatar i Persiabukta.
+ * Azadegan & Yadavaran: Blant de største uutbygde/delvis utbygde oljefunnene som er gjort de siste tiårene.
+ * Reserver totalt: Iran har omtrent 10 % av verdens påviste råoljereserver og rundt 16–17 % av verdens påviste gassreserver.
