@@ -13,52 +13,51 @@
 
 
 
-Her er en oversikt over de største oljefeltene og det nasjonale selskapet i Iran, illustrert med ASCII-tekst og en oversikt over fakta rundt landets oljeressurser.
-Det nasjonale oljeselskapet: NIOC
-(National Iranian Oil Company / شرکت ملی نفت ایران)
- +---------------------------------------------------------+
- |                      N I O C                            |
- |        National Iranian Oil Company (Etabl. 1948)       |
- +---------------------------------------------------------+
- |                                                         |
- |                         [==]                            |
- |                        /|  |\                           |
- |                       / |  | \                          |
- |                      /  |  |  \                         |
- |                     /   |  |   \                        |
- |                    /----+--+----\                       |
- |                   /     |  |     \                      |
- |                  /======+==+======\                     |
- |                 /       |  |       \                    |
- |                /________|__|________\                   |
- |                         |  |                            |
- |                         |  |      /~~~\                 |
- |          +--------------+--+-----+     |                |
- |          |  PETROCHEMICAL / GAS  |     |                |
- |   _______|_______________________|_____|________        |
- |  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~        |
- +---------------------------------------------------------+
+------------------
 
-Irans største olje- og gassfelt (Kartskisse)
-Iran har noen av verdens mest massive hydrokarbonreserver, særlig konsentrert i Khuzestan-provinsen (sørvest) og i Persiabukta:
-           KASPIHAVET
-         /~~~~~~~~~~~~\
-        |              |
-        |    IRAN      |
-        |              |
-       /                \
-      |                  |
-      |   (Zagrosfjellene)
-      |        * Ahvaz (Verdens 3. største oljefelt)
-      |        * Gachsaran & Marun
-      |        * Azadegan (Kjempefunn ved grensen)
-       \                /
-        \              /
-   ~~~~~~\            /~~~~~~~~~~~~~~~~~~~
-  PERSIA- \  *       /   OMANBUKTA
-   BUKTA   \ South  /
-            \ Pars /  (Verdens største gassfelt)
-             \~~~~/
+
+
+Her er ASCII-illustrasjonene tilpasset en smalere bredde (ca. 24–28 tegn, som tilsvarer ca. 200 piksler i standard monospace-skrift):
+NIOC (Borerigg)
++-----------------------+
+|        N I O C        |
++-----------------------+
+|          [=]          |
+|         / | \         |
+|        /  |  \        |
+|       /---+---\       |
+|      /    |    \      |
+|     /=====+=====\     |
+|    /______|______\    |
+|           |           |
+|      +----+----+      |
+|      | OIL/GAS |      |
+|  ____|_________|____  |
+| ~~~~~~~~~~~~~~~~~~~~~ |
++-----------------------+
+
+Kartskisse: Olje- og gassfelt
+       KASPIHAVET
+      (~~~~~~~~~~)
+     /            \
+    |     IRAN     |
+    |              |
+    | * Ahvaz      |
+    | * Azadegan   |
+    | * Gachsaran  |
+     \            /
+   ~~~\          /~~~~
+ PERSIA\  *SP   / OMAN
+ BUKTA  \______/  BUKTA
+
+(SP = South Pars gassfelt)
+
+
+-------------------
+
+
+
+  
 
 Verdens største funn: Hvordan Iran plasserer seg
 Iran eier ikke alle de største funnene alene, men landet ligger stabilt blant topp 3–4 globalt når det gjelder påviste reserver:
