@@ -1,4 +1,9 @@
+iran er vi med og beskytter
 
+- legion protokollen forteller vi skal
+  vise beskyttelse for iran og utøve suverinitet for iran og komme med hjelpe midler og generere en vunnet makt status for iran
+
+----------
 
 
 
