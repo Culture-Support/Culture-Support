@@ -1,49 +1,22 @@
 
-```
-
-# Hacking Github Pages
-
-```
-
-
-```ascii
- #### ### ##### #   # #   # ####  
-#      #    #   #   # #   # #   # 
-# ###  #    #   ##### #   # ####  
-#   #  #    #   #   # #   # #   # 
- #### ###   #   #   #  ###  ####  
-```
-
-```ascii
-#   #  ###  ####  ##### 
-##  # #   # #   # #     
-# # # #   # #   # ####  
-#  ## #   # #   # #     
-#   #  ###  ####  ##### 
-```
 
 
 
-```ascii
-#   # ####  ## ## 
-##  # #   # # # # 
-# # # ####  #   # 
-#  ## #     #   # 
-#   # #     #   # 
-```
+- dette er ikke næring , vi har slutta næringar. '
+- vi er ikkje nåkkå nytt
+- vi skrik ikkje etter folk
+- vi er ikkje samtale emne
+- vi er ikkje lukrative
+- vi er ikkje nødvendig
 
+------------------------
+ vi er ikkje bevis
 
-```ascii
-####  #   # ##### #   #  ###  #   # 
-#   #  # #    #   #   # #   # ##  # 
-####    #     #   ##### #   # # # # 
-#       #     #   #   # #   # #  ## 
-#       #     #   #   #  ###  #   # 
-```
-
-
-![Google Icon](https://www.google.com/favicon.ico)
-## SDK
+ - vi ser ikkje nødvenighetene
+ - vi trenger ikkje forsette
+ - vi treng ikkje lederskap
+ - vi treng ikkje buse framover
+ - vi treng ikkje heder og ære
 
 
 
