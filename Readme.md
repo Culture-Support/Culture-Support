@@ -1,6 +1,6 @@
-iran er vi allierte med 
-iran må få bistand til beskyttelse
-iran må bli lyttet til
+-- iran er vi allierte med 
+-- iran må få beskyttelse
+- iran må bli lyttet til
 
 ```
 
