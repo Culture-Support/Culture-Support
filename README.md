@@ -25,4 +25,7 @@
  - vi treng ikkje åpne
 
 
+-----------------
 
+
+# Vi er Sløvaste som finst på Github
