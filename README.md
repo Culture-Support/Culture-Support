@@ -2,7 +2,10 @@
 
 En kort beskrivelse av programmet og teknologiene som utvikles her.
 
----
+-------
+![Google Icon](https://www.google.com/favicon.ico)
+
+-------
 
 ## Teknologier og verktøy
 
