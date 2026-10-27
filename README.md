@@ -17,6 +17,12 @@
  - vi treng ikkje lederskap
  - vi treng ikkje buse framover
  - vi treng ikkje heder og ære
+ - vi treng ikkje ordet trenger
+ - vi treng ikkje desperasjon
+ - vi treng ikkje tolmodigheit
+ - vi treng ikkje overbevisning
+ - vi treng ikkje stenge
+ - vi treng ikkje åpne
 
 
 
