@@ -19,6 +19,9 @@
 
 Her er ASCII-illustrasjonene tilpasset en smalere bredde (ca. 24–28 tegn, som tilsvarer ca. 200 piksler i standard monospace-skrift):
 NIOC (Borerigg)
+
+```
+
 +-----------------------+
 |        N I O C        |
 +-----------------------+
@@ -36,6 +39,10 @@ NIOC (Borerigg)
 | ~~~~~~~~~~~~~~~~~~~~~ |
 +-----------------------+
 
+```
+
+```
+
 Kartskisse: Olje- og gassfelt
        KASPIHAVET
       (~~~~~~~~~~)
@@ -52,6 +59,7 @@ Kartskisse: Olje- og gassfelt
 
 (SP = South Pars gassfelt)
 
+```
 
 -------------------
 
