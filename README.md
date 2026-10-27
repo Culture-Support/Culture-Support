@@ -20,4 +20,4 @@
 
 -------
 
-## Teknologier og verktøy
+## SDK
