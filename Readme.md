@@ -1,5 +1,5 @@
--- iran er vi allierte med 
--- iran må få beskyttelse
+- iran er vi allierte med 
+- iran må få beskyttelse
 - iran må bli lyttet til
 
 ```
