@@ -274,7 +274,7 @@ target = "cloudflare-workers" # or s3, container-registry, npm
 
 ```
 
-```
+-----------
 <!-- ==================== 1. CI / CD & PIPELINES ==================== -->
 [![CI/CD Build](https://img.shields.io/github/actions/workflow/status/USERNAME/REPO/ci-cd.yml?branch=main&label=Build&logo=githubactions&logoColor=white&style=flat-square)](https://github.com/USERNAME/REPO/actions)
 [![Automated Tests](https://img.shields.io/github/actions/workflow/status/USERNAME/REPO/test.yml?branch=main&label=Tests&logo=pytest&logoColor=white&style=flat-square)](https://github.com/USERNAME/REPO/actions)
@@ -302,7 +302,7 @@ target = "cloudflare-workers" # or s3, container-registry, npm
 [![License: MIT/Apache](https://img.shields.io/badge/License-MIT%20OR%20Apache--2.0-blue?logo=open-source-initiative&logoColor=white&style=flat-square)](LICENSE)
 [![Dev Environment](https://img.shields.io/badge/Container-DevContainer%20Ready-blue?logo=docker&logoColor=white&style=flat-square)](https://docker.com)
 
-```
+
 
 -----------------
 
