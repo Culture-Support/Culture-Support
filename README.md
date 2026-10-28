@@ -203,7 +203,7 @@ console.log('Successfully generated pipeline parameters from pipeline.toml');
 
 ```
 
-``` javacript
+```toml
 
 [meta]
 project = "core-service"
