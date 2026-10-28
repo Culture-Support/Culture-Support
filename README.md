@@ -29,7 +29,20 @@
 ----------------------------
 
 ```
-Jesus is Strongest in Life
+┌────────────────────────────────────────────────────────────────────────┐
+│                        Observability & Telemetry                       │
+│           (OpenTelemetry, Langfuse, Tracing, Token Accounting)         │
+└────────────────────────────────────┬───────────────────────────────────┘
+                                     │
+┌──────────────┐     ┌───────────────▼──────────────┐     ┌──────────────┐
+│ User Request ├────►│  Input Guardrails & Security ├────►│ Context & RAG│
+│  & Metadata  │     │ (Sanitization, Injection, PI)│     │(Hybrid + Re) │
+└──────────────┘     └──────────────────────────────┘     └──────┬───────┘
+                                                                 │
+┌──────────────┐     ┌──────────────────────────────┐     ┌──────▼───────┐
+│ Client / App │◄────┤ Output Guardrails & Parsing  │◄────┤ Model Engine │
+│   Response   │     │ (Pydantic Schema, Halluc.)   │     │ (API / vLLM) │
+└──────────────┘     └──────────────────────────────┘     └──────────────┘
 
 ```
 
