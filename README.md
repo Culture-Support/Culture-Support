@@ -2,6 +2,45 @@
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/7e24de50-18b2-424d-8a0f-a01192ce7728" />
 
 
+
+```
+┌────────────────────────────────────────────────────────┐
+│                   GitHub Repository                    │
+│                                                        │
+│  ┌────────────────────────┐  ┌───────────────────────┐ │
+│  │   pipeline.toml        │  │  package.json         │ │
+│  │ (Matrix, flags, steps) │  │  (Scripts, deps)      │ │
+│  └───────────┬────────────┘  └───────────────────────┘ │
+│              │                                         │
+└──────────────┼─────────────────────────────────────────┘
+               │
+               ▼  [Phase 1: Dynamic Config Evaluation]
+┌────────────────────────────────────────────────────────┐
+│  GitHub Actions: 'configure' job                       │
+│  • Node.js script reads & validates pipeline.toml      │
+│  • Evaluates conditional matrix / deployment flags     │
+│  • Outputs JSON matrix payload to GITHUB_OUTPUT        │
+└──────────────┬─────────────────────────────────────────┘
+               │
+               ▼  [Phase 2: Dynamic Execution Matrix]
+┌────────────────────────────────────────────────────────┐
+│  GitHub Actions: 'test & build' matrix job             │
+│  • Matrix: [ Node 18, 20, 22 ]                         │
+│  • Runs commands declared in pipeline.toml             │
+│  • Emits structured artifacts                          │
+└──────────────┬─────────────────────────────────────────┘
+               │
+               ▼  [Phase 3: Conditional Deployment]
+┌────────────────────────────────────────────────────────┐
+│  GitHub Actions: 'deploy' job (if enabled in TOML)     │
+│  • Reads environment target from parsed TOML           │
+└────────────────────────────────────────────────────────┘
+
+```
+
+
+
+
 ```
 
 ┌─────────────────────────┐
