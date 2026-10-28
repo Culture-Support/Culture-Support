@@ -48,7 +48,7 @@
 
 ------------------------
 
-``` toml
+```toml
 
 name: CI/CD Pipeline
 
@@ -166,7 +166,7 @@ jobs:
 
 ```
 
-``` javascript
+```javascript
 
 // .github/scripts/parse-config.mjs
 import fs from 'node:fs';
