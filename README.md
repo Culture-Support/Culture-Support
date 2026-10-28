@@ -275,7 +275,32 @@ target = "cloudflare-workers" # or s3, container-registry, npm
 ```
 
 ```
-Jesus sending words trough bible
+<!-- ==================== 1. CI / CD & PIPELINES ==================== -->
+[![CI/CD Build](https://img.shields.io/github/actions/workflow/status/USERNAME/REPO/ci-cd.yml?branch=main&label=Build&logo=githubactions&logoColor=white&style=flat-square)](https://github.com/USERNAME/REPO/actions)
+[![Automated Tests](https://img.shields.io/github/actions/workflow/status/USERNAME/REPO/test.yml?branch=main&label=Tests&logo=pytest&logoColor=white&style=flat-square)](https://github.com/USERNAME/REPO/actions)
+[![Deploy Pipeline](https://img.shields.io/github/actions/workflow/status/USERNAME/REPO/deploy.yml?branch=main&label=Deploy&logo=rocket&logoColor=white&style=flat-square)](https://github.com/USERNAME/REPO/actions)
+[![Codecov Coverage](https://img.shields.io/codecov/c/github/USERNAME/REPO?label=Coverage&logo=codecov&logoColor=white&style=flat-square)](https://codecov.io/gh/USERNAME/REPO)
+
+<!-- ==================== 2. MACHINE CODE & ARCHITECTURES ==================== -->
+[![Target Arch](https://img.shields.io/badge/ISA-x86__64%20%7C%20AArch64%20%7C%20RISC--V-00599C?logo=target&logoColor=white&style=flat-square)](#)
+[![Assembler](https://img.shields.io/badge/Assembler-NASM%20%7C%20GAS-red?logo=gnubash&logoColor=white&style=flat-square)](#)
+[![LLVM Toolchain](https://img.shields.io/badge/Toolchain-LLVM%20%2F%20Clang-darkgreen?logo=llvm&logoColor=white&style=flat-square)](https://llvm.org/)
+[![Binary Formats](https://img.shields.io/badge/Binary-ELF%20%7C%20Mach--O%20%7C%20PE-6B7280?style=flat-square)](#)
+
+<!-- ==================== 3. CODE INTEGRITY & SECURITY ==================== -->
+[![Sanitizers ASan/UB](https://img.shields.io/badge/Sanitizers-ASan%20%7C%20UBSan-brightgreen?logo=shield&logoColor=white&style=flat-square)](#)
+[![Static Analysis](https://img.shields.io/badge/Analysis-Clang--Tidy%20Passed-blueviolet?logo=checkmarx&logoColor=white&style=flat-square)](#)
+[![Security Audit](https://img.shields.io/badge/Security-Memory--Safe-success?logo=securityscorecard&logoColor=white&style=flat-square)](#)
+
+<!-- ==================== 4. PACKAGE, RELEASES & ECOSYSTEM ==================== -->
+[![GitHub Release](https://img.shields.io/github/v/release/USERNAME/REPO?include_prereleases&label=Latest%20Release&logo=github&style=flat-square)](https://github.com/USERNAME/REPO/releases)
+[![Binary Size](https://img.shields.io/badge/Binary%20Footprint-%3C64KB-informational?logo=speedtest&style=flat-square)](#)
+[![Package Registry](https://img.shields.io/badge/Registry-Crates.io%20%7C%20Conan-orange?logo=rust&logoColor=white&style=flat-square)](#)
+[![Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(Freestanding)-brightgreen?style=flat-square)](#)
+
+<!-- ==================== 5. COMMUNITY & LICENSING ==================== -->
+[![License: MIT/Apache](https://img.shields.io/badge/License-MIT%20OR%20Apache--2.0-blue?logo=open-source-initiative&logoColor=white&style=flat-square)](LICENSE)
+[![Dev Environment](https://img.shields.io/badge/Container-DevContainer%20Ready-blue?logo=docker&logoColor=white&style=flat-square)](https://docker.com)
 
 ```
 
