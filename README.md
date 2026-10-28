@@ -3,8 +3,10 @@
 
 <img width="360" height="640" alt="image_41bec1db-1883-4cb9-96d9-9a3c39ec6cac" src="https://github.com/user-attachments/assets/9a8764fd-488b-4fc1-b7af-3601fd5acb5f" />
 
-
-
+#Lorawan Virtual Beacon Shield
+- a security virtual beacon tag
+  for remote stopp attackers and botnets from harming and set them into only exploit
+  back on own host if atempting attack 
 -----------
 
 
