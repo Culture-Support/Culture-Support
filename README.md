@@ -166,9 +166,41 @@ jobs:
 
 ```
 
-```
-Jesus Gives to Poor and Make
-them appraisal and forgiven
+``` javascript
+
+// .github/scripts/parse-config.mjs
+import fs from 'node:fs';
+import { parse } from 'smol-toml';
+
+const tomlContent = fs.readFileSync('pipeline.toml', 'utf-8');
+const config = parse(tomlContent);
+
+// Prepare matrix object for GitHub Actions
+const matrixOutput = {
+  node_version: config.runtime.versions,
+  include: []
+};
+
+// Export to GITHUB_OUTPUT environment file
+const outputFile = process.env.GITHUB_OUTPUT;
+
+function appendOutput(key, value) {
+  const formatted = typeof value === 'object' ? JSON.stringify(value) : value;
+  fs.appendFileSync(outputFile, `${key}=${formatted}\n`);
+}
+
+appendOutput('matrix', matrixOutput);
+appendOutput('package_manager', config.runtime.package_manager);
+appendOutput('lint_script', config.pipeline.quality.lint_script);
+appendOutput('typecheck_script', config.pipeline.quality.typecheck_script);
+appendOutput('test_script', config.pipeline.test.unit_script);
+appendOutput('build_script', config.pipeline.build.build_script);
+appendOutput('output_dir', config.pipeline.build.output_dir);
+appendOutput('deploy_enabled', config.deployment.enabled);
+appendOutput('deploy_target', config.deployment.target);
+
+console.log('Successfully generated pipeline parameters from pipeline.toml');
+
 ```
 
 ```
