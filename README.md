@@ -40,3 +40,8 @@ this technology is high secure because it can stopp future hacking and envolve
 hold back attackers illcit traffick as Dos Attacks and espionage attempts 
 
 it can also manage anything me rotated and duped into be a local zero harmfull network , it can also be used to deffence in virus botnets 
+
+
+<img width="765" height="1024" alt="image_71cb8c57-babf-42f1-8e0c-a9a81a97679a" src="https://github.com/user-attachments/assets/b5885445-0fdc-4da6-8d21-41de2dcf2e41" />
+
+
