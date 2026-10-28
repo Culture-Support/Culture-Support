@@ -134,3 +134,21 @@ network if not is a Attacker
 
 √ Remember We can envoke our self 
 into FBi Senitel Operations
+
+
+
+----------
+
+√ We have found spies in bird nests around whitehouse manipulated to target the room of the president and snoop voices from the news room in white house 
+and snoop voices from people and workers on the field and every security agent voices 
+ready to responsive leak videos and strange
+"movie scenes" and lot of ai movie clip manipulated contents and edit them 
+and send them into sources as ai generated videos on youtube and changes visitors and public voices as content source for video generative ai movies and leaked out as 
+new action movies or ai generated drama videos and film movies in free releases on the youtube.....totaly used as sources of video manipulated video sources because of
+people avaible and speaks public and become
+meta random sources from voices into generate random new video contents
+
+
+<img width="1024" height="559" alt="image_da9af844-bbb0-4067-8a80-0d7cf96590e1" src="https://github.com/user-attachments/assets/89db86e7-0b44-444b-bb2f-e53059c38049" />
+
+
