@@ -203,8 +203,36 @@ console.log('Successfully generated pipeline parameters from pipeline.toml');
 
 ```
 
-```
-Jesus Raises Beliefs
+``` javacript
+
+[meta]
+project = "core-service"
+environment = "production"
+
+[runtime]
+engine = "node"
+package_manager = "pnpm" # options: npm, yarn, pnpm
+versions = ["18", "20", "22"]
+fail_fast = true
+
+[pipeline.quality]
+lint_script = "lint"
+typecheck_script = "typecheck"
+audit = true
+
+[pipeline.test]
+unit_script = "test:unit"
+coverage = true
+coverage_threshold = 80
+
+[pipeline.build]
+build_script = "build"
+output_dir = "dist"
+
+[deployment]
+enabled = true
+target = "cloudflare-workers" # or s3, container-registry, npm
+
 ```
 
 ```
