@@ -123,9 +123,14 @@ network if not is a Attacker
 
 
 
-<video controls width="100%" preload="metadata" poster="">
-  <source src="gemini_generated_video_bc1083f9.mp4" type="video/mp4">
-   <a href="gemini_generated_video_bc1083f9.mp4" download>laste ned videoen her</a>.
-</video>
+-----------------
 
 
+<img width="765" height="1024" alt="image_d7989b51-1f4f-45fd-8b5d-2bfa3e42f1b2" src="https://github.com/user-attachments/assets/09ab9925-837d-4ca3-b47d-0026c6fa2e1c" />
+
+
+
+------
+
+√ Remember We can envoke our self 
+into FBi Senitel Operations
