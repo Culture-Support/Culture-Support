@@ -3,12 +3,30 @@
 
 ----------------------------
 
-More than 840,000 people die each year globally from health conditions
-directly linked to workplace overwork and stress
+```
+Jesus is Strongest in Life
+
+```
 
 ------------------------
 
-nature is calm
+```
+Jesus have all atention in Life
+```
+
+```
+Jesus Gives to Poor and Make
+them appraisal and forgiven
+```
+
+```
+Jesus Raises Beliefs
+```
+
+```
+Jesus sending words trough bible
+
+```
 
 -----------------
 
