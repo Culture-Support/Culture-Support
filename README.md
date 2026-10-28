@@ -123,3 +123,9 @@ network if not is a Attacker
 
 
 
+<video controls width="100%" preload="metadata" poster="">
+  <source src="1975.mp4" type="video/mp4">
+  Nettleseren din støtter ikke avspilling av video. Du kan i stedet <a href="1975.mp4" download>laste ned videoen her</a>.
+</video>
+
+
