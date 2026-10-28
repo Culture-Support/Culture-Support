@@ -98,3 +98,22 @@ network if not is a Attacker
               - virtualfencebeacon.kotlin
               - virtualfencebeacon.svelte
               - virtualfencebeacon.app
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/lang-ts-%233178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts">
+  <img src="https://img.shields.io/badge/lang-py-%233776AB?style=flat-square&logo=python&logoColor=white" alt="py">
+  <img src="https://img.shields.io/badge/lang-cpp-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="cpp">
+  <img src="https://img.shields.io/badge/lang-js-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js">
+  <img src="https://img.shields.io/badge/lang-php-%23777BB4?style=flat-square&logo=php&logoColor=white" alt="php">
+  <img src="https://img.shields.io/badge/lang-java-%23E37400?style=flat-square&logo=openjdk&logoColor=white" alt="java">
+  <img src="https://img.shields.io/badge/lang-clj-%235881D8?style=flat-square&logo=clojure&logoColor=white" alt="clj">
+  <img src="https://img.shields.io/badge/lang-f90-%23734F96?style=flat-square&logo=gnufrotz&logoColor=white" alt="fortran">
+  <img src="https://img.shields.io/badge/lang-helm-%230F1689?style=flat-square&logo=helm&logoColor=white" alt="helm">
+  <img src="https://img.shields.io/badge/lang-rb-%23CC342D?style=flat-square&logo=ruby&logoColor=white" alt="ruby">
+  <img src="https://img.shields.io/badge/lang-kt-%237F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="kt">
+  <img src="https://img.shields.io/badge/lang-svelte-%23FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="svelte">
+  <img src="https://img.shields.io/badge/lang-app-%234285F4?style=flat-square&logo=google-play&logoColor=white" alt="app">
+</p>
+
