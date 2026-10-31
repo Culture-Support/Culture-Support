@@ -6,7 +6,7 @@
 <img width="2730" height="1536" alt="zorin" src="https://github.com/user-attachments/assets/dc037a9f-fb12-462d-9327-50fdb1074f28" />
 
 
------
+----------------
 
 ## Zorin Made me Happy
 
@@ -16,8 +16,15 @@
 
 
 
------------
+----------------
 
 ## My Life Have Finally Meanings With Zorin and Linux
 
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/dc032405-59d1-43cc-b8bf-3c9ae4666ecf" />
+
+
+----------------
+----------------
+----------------
+----------------
+----------------
