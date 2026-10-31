@@ -14,8 +14,6 @@
 
 
 
-- im did not need phone call
-- im did not need any optimisation
 
 
 -----------
