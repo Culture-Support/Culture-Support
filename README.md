@@ -7,7 +7,64 @@
 
 Never Come Here from Usa
 
------
+-----------
+----------
+-----------
+
+
+
++-----------------------------------------------------------------------------------+
+|                           GEO-FENCE SECURITY ENGINE v4.2                          |
+|                       RULE DEFINITION: TARGET_COUNTRY == 'USA'                    |
++-----------------------------------------------------------------------------------+
+
+                          [ PERIMETER FENCE BOUNDARY ]
+
+          #+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#
+          #                                                                 #
+          #         /"""""\                                                 #
+          #       /        \____                                  __        #
+          #      /  WA    MT    \___  ND       MN            /""\ \  ME     #
+          #     |   OR   ID   WY    \__     WI        MI    | NY | /        #
+          #     |                  SD  \___         ___     \___/           #
+          #     | NV   UT   CO   NE    IA  \___ IL /   \     PA   MA        #
+          #    / CA                        MO  \__/ IN  OH   WV VA          #
+          #   |      AZ   NM        KS    AR       KY   TN   NC             #
+          #    \                       OK      MS  AL   GA   SC             #
+          #     \_________      TX         LA               /               #
+          #               \____       /\____       ________/                #
+          #                    \_____/      \_____/    FL                   #
+          #                                                                 #
+          #+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#
+
++-----------------------------------------------------------------------------------+
+| TRAFFIC INTERCEPT: INBOUND / OUTBOUND PACKET EVALUATION                           |
++-----------------------------------------------------------------------------------+
+| INCOMING IP      | GEO-LOOKUP | RULE ACTION | ENFORCEMENT STATUS                  |
+|------------------+------------+-------------+-------------------------------------|
+| 198.51.100.24    | US / NA    | DROP / FENCE| [BLOCKED: PERIMETER_FENCE_TRIGGERED]|
+| 203.0.113.195    | DE / EU    | ALLOW       | [FORWARDED: EXTERNAL ROUTE PASS]    |
+| 192.0.2.77       | US / NA    | DROP / FENCE| [BLOCKED: PERIMETER_FENCE_TRIGGERED]|
++-----------------------------------------------------------------------------------+
+
+[RULE CONFIGURATION]
+TABLE: FIREWALL_GEO_PERIMETER
+  MATCH:
+    src_geo: "US"
+    dst_geo: "ANY"
+  ACTION:
+    verdict: REJECT
+    reason: "GEO_FENCE_ENFORCED"
+    log: ENABLED
+
+
+
+
+-----------
+
+------------
+
+
 
 
 
