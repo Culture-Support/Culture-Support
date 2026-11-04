@@ -8,7 +8,8 @@
 
 
 ```
-Geo Fences Will Mean You Sanctions Effects
+Geo Fences Will Mean Sanctions Effects Take Place
+HEAVILY 
 
 ```
 
