@@ -1,4 +1,4 @@
-## We Geoblocking USA 
+ ## We Geoblocking USA 
 + Violations have impacts
 
 -----
@@ -79,6 +79,19 @@ Never Come Here from Usa
 ```
 
 
+
+
+````
+
+You Are Not Part Of This 
+
+````
+
+```
+
+We will see ya GeO Blocked Allways
+
+```
 
 
 
