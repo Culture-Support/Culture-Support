@@ -10,8 +10,13 @@
 - Block Usa from enter Countries
 
 
-High-Performance USA Regional CIDR Sets, GeoIP Pipelines & Automated Perimeter Defense
-Architecture • Quick Start • CIDR Blocklists • Integrations • Maintenance
+High-Performance USA Regional CIDR Sets
+- GeoIP Pipelines & Automated Perimeter Defense
+- Architecture 
+- Quick Start
+- CIDR Blocklists
+- Integrations
+- Maintenance
 
 
 -------
