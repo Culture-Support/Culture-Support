@@ -81,17 +81,14 @@ Never Come Here from Usa
 
 
 
-````
 
 You Are Not Part Of This 
 
-````
-
 ```
+
 
 We will see ya GeO Blocked Allways
 
-```
 
 
 
@@ -114,5 +111,11 @@ False Positives: Anycast IP addresses belonging to global CDNs might report US r
 
 we are also banning usa constitution adresses
 
+
 ```
+
+------
+
+
+
 # Us Constitution is # Banned
