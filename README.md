@@ -6,6 +6,13 @@
 - You talked about billionaires
 - you will become blocked by Billions
 
+
+```
+Geo Fences Will Mean You Sanctions Effects
+
+```
+
+
 --------
 
 ## 🌐 GEO Fence USA into a blocked country 
