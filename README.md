@@ -14,6 +14,12 @@ HEAVILY
 ```
 
 
+```
+
+Usa is already Blocked
+
+```
+
 --------
 
 ## 🌐 GEO Fence USA into a blocked country 
