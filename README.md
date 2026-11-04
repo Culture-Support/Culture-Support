@@ -3,8 +3,8 @@
 
 -----
 
--- You talked about billionaire a
--- you will become blocked by Billions
+- You talked about billionaires
+- you will become blocked by Billions
 
 --------
 
