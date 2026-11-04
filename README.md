@@ -139,7 +139,7 @@ we are also banning usa constitution adresses
 
 ------
 
-You dont doing right 
+You dont doing right =
 
 - the geoblocks will be used also
   from unhappy protestors inside USA
