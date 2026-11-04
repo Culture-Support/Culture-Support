@@ -97,12 +97,21 @@ We will see ya GeO Blocked Allways
 
 
 
+-----
+------
+
+
+⚠️ Performance & Caveats
+Memory Footprint: Loading unaggregated single IPs creates millions of routing entries. Always use ipaddress.collapse_addresses() or aggregate CIDR masks to keep kernel lookup overhead O(\log n) via trie structures.
+False Positives: Anycast IP addresses belonging to global CDNs might report US registration while terminating user connections in Europe or Asia.
 
 
 
+-----
+--------
 
+```
 
+we are also banning usa constitution adrwsses
 
-
-
-
+```
