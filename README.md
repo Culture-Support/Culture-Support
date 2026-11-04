@@ -1,7 +1,10 @@
 ## We Geoblocking USA 
 + Violations have impacts
 
+-----
 
+-- You talked about billionaire a
+-- you will become blocked by Billions
 
 --------
 
