@@ -1,4 +1,4 @@
-
+We Geoblocking USA 
 
 
 Depending on the context you are working in, here is how a blacklist of the United States is typically handled:
