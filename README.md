@@ -65,15 +65,10 @@ TABLE: FIREWALL_GEO_PERIMETER
 
 ```
 
+
+
+
 ```
-
------------
-
-------------
-
-
-
-
 
 Depending on the context you are working in, here is how a blacklist of the United States is typically handled:
 1. Web Traffic & Geo-blocking (Server / CDN)
@@ -92,3 +87,6 @@ Many non-US financial, betting, or crypto services blacklist US residents/citize
 3. Session / Task Constraint
 If this is a instruction for our conversation (e.g., exclude US data, companies, or servers from code or recommendations), that constraint is noted.
 Which implementation or system are you configuring?
+
+```
+
