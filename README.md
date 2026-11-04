@@ -5,7 +5,9 @@
 
 --------
 
-## 🌐 geo-fence-us
+## 🌐 GEO Fence-usa into a blocked country 
+
+- Block Usa from enter Countries
 
 
 High-Performance USA Regional CIDR Sets, GeoIP Pipelines & Automated Perimeter Defense
