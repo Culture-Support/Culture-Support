@@ -119,3 +119,17 @@ we are also banning usa constitution adresses
 
 
 # Us Constitution is # Banned
+
+
+------
+
+# π There Exist No Time to Dismiss 
+
+- imposing Dismiss
+- take Constitution shortcuts ways will not work
+- There is no more Negotiations 
+------
+
+# Goodbye USA 
+------
+
