@@ -5,7 +5,7 @@
 
 --------
 
-## 🌐 GEO Fence-usa into a blocked country 
+## 🌐 GEO Fence USA into a blocked country 
 
 - Block Usa from enter Countries
 
