@@ -133,3 +133,13 @@ we are also banning usa constitution adresses
 # Goodbye USA 
 ------
 
+- Geoblocking Take Place Even in US
+- internal Protest Marches
+- Geo Blocking is active imposed
+
+------
+
+You dont doing right 
+
+- the geoblocks will be used also
+  from unhappy protestors inside USA
