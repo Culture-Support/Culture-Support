@@ -63,7 +63,7 @@ TABLE: FIREWALL_GEO_PERIMETER
     reason: "GEO_FENCE_ENFORCED"
     log: ENABLED
 
-
+```
 
 ```
 
