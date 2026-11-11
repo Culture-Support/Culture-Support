@@ -1,4 +1,14 @@
+```
+PPPPPP   SSSSSS  Y   Y  KK   K   OOO   SSSSS  EEEEE
+P     P S        Y   Y  K  K    O   O S       E    
+PPPPPP   SSSSS    Y Y   KKK     O   O  SSSSS  EEEEE
+P            S    Y     K  K    O   O      S E    
+P       SSSSS     Y     K   K    OOO  SSSSS  EEEEE
 
+
+
+
+```
 
 
 Her er en oversikt over 16 anbefalte tilnærminger, råd og støttemeldinger knyttet til opphold ved psykiatrisk institusjon og behandling for personer som opplever mentale stemmer, psykoselidelser eller schizofreni.
