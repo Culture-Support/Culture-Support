@@ -27,4 +27,9 @@ A Browser Editor Forming Build and Test Local Apps , Withouth Annoyed Ads and Tr
 ---
 
 ## 📦 We Builded Kabana Studio  
-For Local Build Environment inside Broweser for testing and run apps without cookies and tracking
+For Local Build Environment inside Browser for testing and run apps without cookies and tracking
+
+
+### 
+
+The Application is Made For Desktop Environment and PC 
