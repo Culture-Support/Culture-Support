@@ -14,7 +14,7 @@
 [![Version](https://img.shields.io/github/v/release/your-username/kabana-studio?style=flat-square)](https://github.com/your-username/kabana-studio/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
-**Kabana Studio** is a powerful development environment and node-based visual workflow editor paired with the **Runtime Editor** for executing and monitoring dynamic applications in real-time.
+**Kabana Studio** is a powerful development environment  **Runtime Editor** for executing and monitoring dynamic applications in real-time.
 
 ---
 
