@@ -29,15 +29,7 @@
 
 ## 🛠️ Prerequisites
 
-Before you begin, ensure you have the following installed on your system:
-* **Node.js** (v18.x or higher recommended)
-* **npm** (v9.x or higher) or **yarn** / **pnpm**
-
+A Browser internal Git System and Storage Forming Enable Local Deployments of Code and own Git Node 
 ---
 
-## 📦 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/kabana-studio.git](https://github.com/your-username/kabana-studio.git)
-   cd kabana-studio
+## 📦 We Builded Kabana Studio  
