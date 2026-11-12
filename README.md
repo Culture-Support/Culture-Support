@@ -18,18 +18,13 @@
 
 ---
 
-## 🚀 Features
-
-* **Visual Node Studio:** Build complex logic pipelines and UI layouts with an intuitive drag-and-drop interface.
-* **Lightweight Runtime Editor:** Deploy and execute scripts and workflows instantly within a sandboxed runtime environment.
-* **Extensible Architecture:** Plugin-ready ecosystem supporting custom nodes, components, and themes.
-* **Cross-Platform:** Built with modern web technologies, running seamlessly across desktop and web environments.
 
 ---
 
 ## 🛠️ Prerequisites
 
-A Browser internal Git System and Storage Forming Enable Local Deployments of Code and own Git Node 
+A Browser Editor Forming Build and Test Local Apps , Withouth Annoyed Ads and Tracking Bots 
 ---
 
 ## 📦 We Builded Kabana Studio  
+For Local Build Environment inside Broweser for testing and run apps without cookies and tracking
