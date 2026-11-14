@@ -13,10 +13,12 @@ Rapporten om farlig uønskete personer i norge er oppdatert
 
 
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/kabana-studio/ci.yml?branch=main&style=flat-square)](https://github.com/your-username/kabana-studio/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/github/v/release/your-username/kabana-studio?style=flat-square)](https://github.com/your-username/kabana-studio/releases)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+----------
+
+vi har en person oppfordring til bedre personlig utvikling 
+og bedre vernet mot farlige personer når vi vet om denne 
+indikasjon foregår .
 
 
----
+- vi har plikt og ikke medbringe psykiatrisk farlige
+  personer som driver ødelegger for oss
