@@ -1,6 +1,11 @@
 
 
+Rapporten om farlig uønskete personer i norge er oppdatert
 
+- vi kommer tilbake med oppdraget og verne disse fra forhold som driver en uønsket atferd eller agenda som
+  - trussel mot personell
+  - trussel og svindel oppførsel
+  - personer som har behov for varig forvaring for psykriatri
 
 
 
