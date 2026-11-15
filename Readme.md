@@ -2,9 +2,9 @@
 
 ## Building Apps and Uses Them to Unfold
 
-<img width="2730" height="1536" alt="Voxel Zorin" src="https://github.com/user-attachments/assets/7b50c17a-f32b-4060-8ee3-7a17d70ab39d" />
 
 
 
 
 
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/6f819709-4979-46ae-b7aa-39ba6a7be5fa" />
