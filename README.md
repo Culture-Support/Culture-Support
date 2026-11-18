@@ -17,3 +17,18 @@ on blockchain
 
 
 <img width="765" height="1024" alt="image_a0a6faa4-e18a-49b4-a3e9-d001637b0663" src="https://github.com/user-attachments/assets/54152a7d-83a5-4314-bd93-51507e06f0a4" />
+
+
+
+----------
+
+---------
+
+
+if game dont work its time to change planet and
+be not so great guy anymore 
+
+
+
+
+<img width="768" height="1024" alt="image_9eacd6cf-275b-42d9-9257-32a50461ec70" src="https://github.com/user-attachments/assets/4290755b-a8ba-4b84-90d5-be6e23b744fc" />
