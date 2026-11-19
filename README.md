@@ -14,3 +14,12 @@
 
 <img width="742" height="1024" alt="image_c34ec640-6f95-465b-8a3f-1c7ed2c391a4" src="https://github.com/user-attachments/assets/8b565e1d-789c-460c-ba65-4222179889c6" />
 
+-----
+
+## ingredience scheme
+- calculated tensors
+- calculations of PLC Program logic
+- scada programmer gui
+- - - -
+- program editor for api
+- program editor for app
